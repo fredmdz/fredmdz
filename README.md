@@ -1,9 +1,4 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smirking%20Face.png" alt="Smirking Face" width="10%" align="center" />
-</div>
-
-
-<h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> Hi, I'm Fredd <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /></h1>
+<h1 align="center"> Hi, I'm Fredd </h1>
 
 <div align="center">
   <img src="banner_wy.jpg" alt="Banner" width="100%">
@@ -30,8 +25,7 @@ const fredd = {
   education: "Software Engineering Student",
   passions: ["Web Development", "Embedded Systems", "UI/UX Design"],
   currentlyLearning: ["Mobile Development", "Cloud Computing", "AI/ML"],
-  askMeAbout: ["Tech", "Programming", "Coffee", "Anime"],
-  funFact: "Escribo código como si alguien fuera a mantenerlo - yo mismo en el futuro"
+  askMeAbout: ["Tech", "Programming", "Coffee", "Anime"]
 };
 ```
 
