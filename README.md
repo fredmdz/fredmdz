@@ -90,7 +90,7 @@ const fredd = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FdevMX&theme=minimal&hide_border=true&color=FFB800&line=FFB800&point=FF2D78&area=true&area_color=FFB80015&radius=6" width="97%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FdevMX&bg_color=1a1a1a&hide_border=true&color=cccccc&line=FFB800&point=FF2D78&area=true&area_color=FFB80015&radius=6" width="97%" />
 </div>
 
 
