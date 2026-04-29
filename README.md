@@ -84,13 +84,13 @@ const fredd = {
 
 <div align="center">
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=FdevMX&show_icons=true&theme=transparent&hide_border=true&title_color=FFB800&icon_color=FF2D78&text_color=cccccc&count_private=true&border_radius=12" />
-<img height="155" src="https://github-readme-streak-stats.herokuapp.com/?user=FdevMX&theme=transparent&hide_border=true&ring=FFB800&fire=FF2D78&currStreakLabel=FFB800&sideLabels=888888&dates=666666&border_radius=12" />
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=fredmdz&show_icons=true&theme=transparent&hide_border=true&title_color=FFB800&icon_color=FF2D78&text_color=cccccc&count_private=true&border_radius=12" />
+<img height="155" src="https://github-readme-streak-stats.herokuapp.com/?user=fredmdz&theme=transparent&hide_border=true&ring=FFB800&fire=FF2D78&currStreakLabel=FFB800&sideLabels=888888&dates=666666&border_radius=12" />
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FdevMX&bg_color=1a1a1a&hide_border=true&color=cccccc&line=FFB800&point=FF2D78&area=true&area_color=FFB80015&radius=6" width="97%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fredmdz&bg_color=1a1a1a&hide_border=true&color=cccccc&line=FFB800&point=FF2D78&area=true&area_color=FFB80015&radius=6" width="97%" />
 </div>
 
 
@@ -100,7 +100,7 @@ const fredd = {
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=FFB800)](https://github.com/FdevMX)
+[![GitHub](https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=FFB800)](https://github.com/fredmdz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=FFB800)](https://www.linkedin.com/in/alfredolopezmendez/)
 [![X](https://img.shields.io/badge/X-1a1a1a?style=for-the-badge&logo=x&logoColor=FFB800)](https://twitter.com/FdevMX)
 [![Medium](https://img.shields.io/badge/Medium-1a1a1a?style=for-the-badge&logo=medium&logoColor=FFB800)](https://medium.com/@freddmx)
