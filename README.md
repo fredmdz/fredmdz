@@ -49,38 +49,44 @@ Construyo aplicaciones web escalables, soluciones móviles nativas y herramienta
 <table width="100%">
 <tr>
 <td width="33%" align="center" valign="top">
-<h3>Delivery App</h3>
-<p>Aplicación móvil para gestionar servicios de entregas y usuarios, con autenticación, registro y consumo de API.</p>
-<p>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
-<img src="https://img.shields.io/badge/GetX-8B5CF6?style=flat-square" alt="GetX" />
-<img src="https://img.shields.io/badge/Get_Storage-475569?style=flat-square" alt="Get Storage" />
-<img src="https://img.shields.io/badge/HTTP-FF6C37?style=flat-square" alt="HTTP" />
-<img src="https://img.shields.io/badge/Repo_Privado-475569?style=flat-square&logo=github&logoColor=white" alt="Repo Privado" />
-</p>
+  <h3><a href="https://github.com/fredmdz/BackendDeliveryApp">Delivery App</a></h3>
+  <p>Aplicación móvil para gestionar servicios de entregas y usuarios, con autenticación, registro y consumo de API.</p>
+  <p>
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+    <img src="https://img.shields.io/badge/GetX-8B5CF6?style=flat-square" alt="GetX" />
+    <img src="https://img.shields.io/badge/Get_Storage-475569?style=flat-square" alt="Get Storage" />
+    <img src="https://img.shields.io/badge/HTTP-FF6C37?style=flat-square" alt="HTTP" />
+    <a href="https://github.com/fredmdz/BackendDeliveryApp">
+      <img src="https://img.shields.io/badge/Ver_Repo-181717?style=flat-square&logo=github&logoColor=white" alt="Ver Repo" />
+    </a>
+  </p>
 </td>
 <td width="33%" align="center" valign="top">
-<h3>CACC — Ciencia Abierta</h3>
-<p>Plataforma web de divulgación científica, cultural y humanística para comunidades indígenas de Chiapas.</p>
-<p>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-<img src="https://img.shields.io/badge/MVC-475569?style=flat-square" alt="MVC" />
-<img src="https://img.shields.io/badge/Repo_Privado-475569?style=flat-square&logo=github&logoColor=white" alt="Repo Privado" />
-</p>
+  <h3><a href="https://github.com/fredmdz/CACC">CACC — Ciencia Abierta</a></h3>
+  <p>Plataforma web de divulgación científica, cultural y humanística para comunidades indígenas de Chiapas.</p>
+  <p>
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+    <img src="https://img.shields.io/badge/MVC-475569?style=flat-square" alt="MVC" />
+    <a href="https://github.com/fredmdz/CACC">
+      <img src="https://img.shields.io/badge/Ver_Repo-181717?style=flat-square&logo=github&logoColor=white" alt="Ver Repo" />
+    </a>
+  </p>
 </td>
 <td width="33%" align="center" valign="top">
-<h3>CANACO App</h3>
-<p>App institucional de CANACO SERVYTUR Tuxtla Gutiérrez que centraliza información, servicios y beneficios para empresarios y afiliados.</p>
-<p>
-<img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native" />
-<img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Repo_Privado-475569?style=flat-square&logo=github&logoColor=white" alt="Repo Privado" />
-</p>
+  <h3><a href="https://github.com/fredmdz/canaco-app">CANACO App</a></h3>
+  <p>App institucional de CANACO SERVYTUR Tuxtla Gutiérrez que centraliza información, servicios y beneficios para empresarios y afiliados.</p>
+  <p>
+    <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native" />
+    <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+    <a href="https://github.com/fredmdz/canaco-app">
+      <img src="https://img.shields.io/badge/Ver_Repo-181717?style=flat-square&logo=github&logoColor=white" alt="Ver Repo" />
+    </a>
+  </p>
 </td>
 </tr>
 </table>
